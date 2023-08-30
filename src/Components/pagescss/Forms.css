@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0;
+}
+.forms{
+    margin-bottom: 50px;
+    margin-top:50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#forms{
+    background-color:rgba(242,242,242,255);
+    border-radius: 15px;
+    box-shadow: 30px black;
+    max-width: 1000px;
+    min-width: auto;
+    margin-bottom: 50px;
+    margin-top:50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.form-label{
+box-shadow: 20px black;
+    
+}.bu
+{
+    
+    text-align: center;
+}
+
+#fsubmit{
+ width: 75%;
+    border-radius: 30px;
+
+}
